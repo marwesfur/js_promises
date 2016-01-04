@@ -1,6 +1,9 @@
-npm install
-grunt default
-node (basics|tree_path).js
+To Run
+======
+
+- npm install
+- grunt default
+- node (basics|tree_path).js
 
 Basics
 ======
