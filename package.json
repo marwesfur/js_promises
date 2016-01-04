@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "grunt": "^0.4.4",
+    "grunt-ts": "^2.0.0",
+    "typescript": "latest",
+    "q": "latest"
+  }
+}
